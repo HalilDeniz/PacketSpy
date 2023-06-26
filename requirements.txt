@@ -1,0 +1,4 @@
+scapy
+rich
+argparse
+ipaddress
