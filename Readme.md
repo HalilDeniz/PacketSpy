@@ -1,5 +1,7 @@
 # PacketSpy
 
+<img src="img/packetspy.png"></img>
+
 ## Description
 PacketSpy is a powerful network packet sniffing tool designed to capture and analyze network traffic. It provides a comprehensive set of features for inspecting HTTP requests and responses, viewing raw payload data, and gathering information about network devices. With PacketSpy, you can gain valuable insights into your network's communication patterns and troubleshoot network issues effectively.
 
