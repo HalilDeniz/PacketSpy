@@ -5,6 +5,11 @@
 ## Description
 PacketSpy is a powerful network packet sniffing tool designed to capture and analyze network traffic. It provides a comprehensive set of features for inspecting HTTP requests and responses, viewing raw payload data, and gathering information about network devices. With PacketSpy, you can gain valuable insights into your network's communication patterns and troubleshoot network issues effectively.
 
+<h4 align="center">
+<br>
+   <a href="https://buymeacoffee.com/halildeniz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</h4>
+
 ## Features
 - **Packet Capture**: Capture and analyze network packets in real-time.
 - **HTTP Inspection**: Inspect HTTP requests and responses for detailed analysis.
